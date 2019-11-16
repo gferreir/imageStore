@@ -1,0 +1,9 @@
+/home/gferreir/Projects/faculdade/db2/mongodb-gridfs-spring-mvc/src/main/java/com/gridfs/app/ServletInitializer.java
+/home/gferreir/Projects/faculdade/db2/mongodb-gridfs-spring-mvc/src/main/java/com/gridfs/app/controller/HomeController.java
+/home/gferreir/Projects/faculdade/db2/mongodb-gridfs-spring-mvc/src/main/java/com/gridfs/app/MongoConfig.java
+/home/gferreir/Projects/faculdade/db2/mongodb-gridfs-spring-mvc/src/main/java/com/gridfs/app/controller/UploadForm.java
+/home/gferreir/Projects/faculdade/db2/mongodb-gridfs-spring-mvc/src/main/java/com/gridfs/app/JspConfiguration.java
+/home/gferreir/Projects/faculdade/db2/mongodb-gridfs-spring-mvc/src/main/java/com/gridfs/app/controller/GlobalExceptionHandler.java
+/home/gferreir/Projects/faculdade/db2/mongodb-gridfs-spring-mvc/src/main/java/com/gridfs/app/MongodbGridfsApplication.java
+/home/gferreir/Projects/faculdade/db2/mongodb-gridfs-spring-mvc/src/main/java/com/gridfs/app/controller/Search.java
+/home/gferreir/Projects/faculdade/db2/mongodb-gridfs-spring-mvc/src/main/java/com/gridfs/app/controller/SizeUtil.java
